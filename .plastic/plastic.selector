@@ -1,0 +1,4 @@
+repository "Zaman Sıçraması@ZamanSicramasi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
